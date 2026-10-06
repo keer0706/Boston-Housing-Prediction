@@ -162,13 +162,11 @@ House-Price-Prediction/
 ├── House_Price_Prediction.ipynb
 ├── HousingData.csv
 ├── README.md
-│
-└── visualizations/
-    ├── heatmap.png
-    ├── features_boxplot.png
-    ├── RM_histogram.png
-    ├── LSTAT_histogram.png
-    └── PTRATIO_histogram.png
+├── heatmap.png
+├── features_boxplot.png
+├── RM_histogram.png
+├── LSTAT_histogram.png
+└── PTRATIO_histogram.png
 ```
 
 ## Key Takeaway
